@@ -7,4 +7,5 @@ Petit projet pour apprendre Git à deux.
 - `git pull` avant de commencer
 
 git cherry-pick  if i want 
+git stash
 
